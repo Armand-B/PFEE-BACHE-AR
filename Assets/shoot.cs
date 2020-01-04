@@ -16,7 +16,7 @@ public class shoot : MonoBehaviour
         GameObject Temporary_Bullet_Handler;
         Temporary_Bullet_Handler = Instantiate(Bullet,Bullet_Emitter.transform.position, Bullet_Emitter.transform.rotation) as GameObject;
        
-        Destroy(Temporary_Bullet_Handler, 5.0f);
+        Destroy(Temporary_Bullet_Handler, 0.5f);
     }
     // Start is called before the first frame update
     void Start()

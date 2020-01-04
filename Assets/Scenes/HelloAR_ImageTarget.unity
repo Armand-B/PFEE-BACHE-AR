@@ -162,6 +162,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ImageTarget
       objectReference: {fileID: 0}
+    - target: {fileID: 2949040545007792523, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
     - target: {fileID: 2949040545007792521, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -542,6 +547,11 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 200
       objectReference: {fileID: 0}
+    - target: {fileID: 4489335816936907760, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 33836335767161405, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -585,7 +595,12 @@ PrefabInstance:
     - target: {fileID: 7525665877795416694, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.341
+      value: 0.942
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525665877795416694, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.049
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c57a0fa1f8786c408d4f7088e282ede, type: 3}

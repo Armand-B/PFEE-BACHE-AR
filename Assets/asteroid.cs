@@ -22,4 +22,11 @@ public class asteroid : MonoBehaviour
             Destroy(this.gameObject);
         }  
     }
+
+    private void OnTriggerEnter(Collider other) {
+        if(other.tag == "bullet")
+        {
+            Destroy(this.gameObject);
+        }  
+    }
 }
