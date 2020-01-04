@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: c544d6d0902ca714a9ec704422e10261
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: dossier_low_kart_low
+    100002: kart_low_chassis_low
+    100004: kart_low_corps_low
+    100006: kart_low_moteur_low
+    100008: kart_low_roueArriere_L_low
+    100010: kart_low_roueArriere_R_low
+    100012: kart_low_roueAvant_L_low
+    100014: kart_low_roueAvant_R__low
+    100016: kart_low_siege_low
+    100018: kart_low_stock_B_low
+    100020: kart_low_stock_L_low
+    100022: kart_low_stock_R_low
+    100024: kart_low_turbo_L_low
+    100026: kart_low_turbo_R__low
+    100028: kart_low_volant_low
+    100030: //RootNode
+    400000: dossier_low_kart_low
+    400002: kart_low_chassis_low
+    400004: kart_low_corps_low
+    400006: kart_low_moteur_low
+    400008: kart_low_roueArriere_L_low
+    400010: kart_low_roueArriere_R_low
+    400012: kart_low_roueAvant_L_low
+    400014: kart_low_roueAvant_R__low
+    400016: kart_low_siege_low
+    400018: kart_low_stock_B_low
+    400020: kart_low_stock_L_low
+    400022: kart_low_stock_R_low
+    400024: kart_low_turbo_L_low
+    400026: kart_low_turbo_R__low
+    400028: kart_low_volant_low
+    400030: //RootNode
+    2100000: dossier_low_kart_lowMat
+    2100002: kart_low_chassis_lowMat
+    2100004: kart_low_corps_lowMat
+    2100006: kart_low_moteur_lowMat
+    2100008: kart_low_roueArriere_L_lowMat
+    2100010: kart_low_roueArriere_R_lowMat
+    2100012: kart_low_roueAvant_L_lowMat
+    2100014: kart_low_roueAvant_R__lowMat
+    2100016: kart_low_siege_lowMat
+    2100018: kart_low_stock_B_lowMat
+    2100020: kart_low_stock_L_lowMat
+    2100022: kart_low_stock_R_lowMat
+    2100024: kart_low_turbo_L_lowMat
+    2100026: kart_low_turbo_R__lowMat
+    2100028: kart_low_volant_lowMat
+    2300000: dossier_low_kart_low
+    2300002: kart_low_chassis_low
+    2300004: kart_low_corps_low
+    2300006: kart_low_moteur_low
+    2300008: kart_low_roueArriere_L_low
+    2300010: kart_low_roueArriere_R_low
+    2300012: kart_low_roueAvant_L_low
+    2300014: kart_low_roueAvant_R__low
+    2300016: kart_low_siege_low
+    2300018: kart_low_stock_B_low
+    2300020: kart_low_stock_L_low
+    2300022: kart_low_stock_R_low
+    2300024: kart_low_turbo_L_low
+    2300026: kart_low_turbo_R__low
+    2300028: kart_low_volant_low
+    3300000: dossier_low_kart_low
+    3300002: kart_low_chassis_low
+    3300004: kart_low_corps_low
+    3300006: kart_low_moteur_low
+    3300008: kart_low_roueArriere_L_low
+    3300010: kart_low_roueArriere_R_low
+    3300012: kart_low_roueAvant_L_low
+    3300014: kart_low_roueAvant_R__low
+    3300016: kart_low_siege_low
+    3300018: kart_low_stock_B_low
+    3300020: kart_low_stock_L_low
+    3300022: kart_low_stock_R_low
+    3300024: kart_low_turbo_L_low
+    3300026: kart_low_turbo_R__low
+    3300028: kart_low_volant_low
+    4300000: dossier_low_kart_low
+    4300002: kart_low_chassis_low
+    4300004: kart_low_corps_low
+    4300006: kart_low_moteur_low
+    4300008: kart_low_roueArriere_L_low
+    4300010: kart_low_roueArriere_R_low
+    4300012: kart_low_roueAvant_L_low
+    4300014: kart_low_roueAvant_R__low
+    4300016: kart_low_siege_low
+    4300018: kart_low_stock_B_low
+    4300020: kart_low_stock_L_low
+    4300022: kart_low_stock_R_low
+    4300024: kart_low_turbo_L_low
+    4300026: kart_low_turbo_R__low
+    4300028: kart_low_volant_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dossier_low_kart_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_chassis_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_corps_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_moteur_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_roueArriere_L_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_roueArriere_R_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_roueAvant_L_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_roueAvant_R__lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_siege_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_stock_B_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_stock_L_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_stock_R_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_turbo_L_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_turbo_R__lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kart_low_volant_lowMat
+    second: {fileID: 2100000, guid: 4acfb9c815c553044a6e7fcd30ff64d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

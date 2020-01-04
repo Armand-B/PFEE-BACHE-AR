@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: d0f5f86a619f0d44e87eb4c475699915
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bras_HELP
+    100002: bras_L
+    100004: bras_R
+    100006: diaphragme_dos
+    100008: diaphragme_tete
+    100010: ecran
+    100012: //RootNode
+    100014: shutter_018
+    100016: shutter_019
+    100018: shutter_020
+    100020: shutter_021
+    100022: shutter_022
+    100024: shutter_023
+    100026: shutter_024
+    100028: shutter_025
+    100030: shutter_026
+    100032: shutter_027
+    100034: shutter_028
+    100036: shutter_029
+    100038: shutter_030
+    100040: shutter_031
+    100042: shutter_032
+    100044: shutter_033
+    100046: shutter_034
+    100048: shutter_035
+    400000: bras_HELP
+    400002: bras_L
+    400004: bras_R
+    400006: diaphragme_dos
+    400008: diaphragme_tete
+    400010: ecran
+    400012: //RootNode
+    400014: shutter_018
+    400016: shutter_019
+    400018: shutter_020
+    400020: shutter_021
+    400022: shutter_022
+    400024: shutter_023
+    400026: shutter_024
+    400028: shutter_025
+    400030: shutter_026
+    400032: shutter_027
+    400034: shutter_028
+    400036: shutter_029
+    400038: shutter_030
+    400040: shutter_031
+    400042: shutter_032
+    400044: shutter_033
+    400046: shutter_034
+    400048: shutter_035
+    2100000: mascotte
+    2100002: ecran
+    2300000: bras_L
+    2300002: bras_R
+    2300004: ecran
+    2300006: //RootNode
+    3300000: bras_L
+    3300002: bras_R
+    3300004: ecran
+    3300006: //RootNode
+    4300000: corps
+    4300002: ecran
+    4300004: shutter_025
+    4300006: shutter_024
+    4300008: shutter_023
+    4300010: shutter_022
+    4300012: shutter_021
+    4300014: shutter_020
+    4300016: shutter_019
+    4300018: shutter_018
+    4300020: shutter_026
+    4300022: shutter_034
+    4300024: shutter_033
+    4300026: shutter_032
+    4300028: shutter_031
+    4300030: shutter_030
+    4300032: shutter_029
+    4300034: shutter_028
+    4300036: shutter_027
+    4300038: shutter_035
+    4300040: bras_R
+    4300042: bras_L
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: shutter_018
+    13700002: shutter_019
+    13700004: shutter_020
+    13700006: shutter_021
+    13700008: shutter_022
+    13700010: shutter_023
+    13700012: shutter_024
+    13700014: shutter_025
+    13700016: shutter_026
+    13700018: shutter_027
+    13700020: shutter_028
+    13700022: shutter_029
+    13700024: shutter_030
+    13700026: shutter_031
+    13700028: shutter_032
+    13700030: shutter_033
+    13700032: shutter_034
+    13700034: shutter_035
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecran
+    second: {fileID: 2100000, guid: ebb7d193a7872ba49b71b697d7483f7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mascotte
+    second: {fileID: 2100000, guid: 1dd4357d61e72ea46aa005806fc3872b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 0
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

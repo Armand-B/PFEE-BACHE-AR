@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: f69f8ed97799e364f85f7168418db6dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: plante001
+    100004: plante002
+    100006: plante003
+    100008: plante004
+    100010: plante005
+    100012: plante006
+    100014: plante007
+    100016: plante008
+    100018: plante009
+    100020: plante010
+    100022: terre
+    400000: //RootNode
+    400002: plante001
+    400004: plante002
+    400006: plante003
+    400008: plante004
+    400010: plante005
+    400012: plante006
+    400014: plante007
+    400016: plante008
+    400018: plante009
+    400020: plante010
+    400022: terre
+    2100000: plante
+    2300000: //RootNode
+    2300002: plante001
+    2300004: plante002
+    2300006: plante003
+    2300008: plante004
+    2300010: plante005
+    2300012: plante006
+    2300014: plante007
+    2300016: plante008
+    2300018: plante009
+    2300020: plante010
+    2300022: terre
+    3300000: //RootNode
+    3300002: plante001
+    3300004: plante002
+    3300006: plante003
+    3300008: plante004
+    3300010: plante005
+    3300012: plante006
+    3300014: plante007
+    3300016: plante008
+    3300018: plante009
+    3300020: plante010
+    3300022: terre
+    4300000: pot
+    4300002: terre
+    4300004: plante001
+    4300006: plante002
+    4300008: plante003
+    4300010: plante004
+    4300012: plante005
+    4300014: plante006
+    4300016: plante007
+    4300018: plante008
+    4300020: plante009
+    4300022: plante010
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plante
+    second: {fileID: 2100000, guid: f7a0dd817cc5dac47ace4ca27a71ddd2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
