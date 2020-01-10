@@ -786,7 +786,7 @@ GameObject:
   - component: {fileID: 2616112129051140855}
   m_Layer: 0
   m_Name: Fragment 12
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -799,7 +799,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1339185941595918713}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2576, y: 0.2341, z: 0.1973}
+  m_LocalPosition: {x: 0.2576, y: -0.015, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -879,7 +879,7 @@ GameObject:
   - component: {fileID: 7306300108661910872}
   m_Layer: 0
   m_Name: Fragment 31
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -892,7 +892,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694485685450229468}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.26, y: 0.0784, z: 0.1973}
+  m_LocalPosition: {x: 0.26, y: -0.17070004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -6526,6 +6526,18 @@ MonoBehaviour:
   speed: 12
   variableJoystick: {fileID: 5748395699673371128}
   rb: {fileID: 6429630894442737142}
+--- !u!114 &7233148680548128321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4549991890310571245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff918dc1b5bfd2b40bab28301b3f2d7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4570576233442068946
 GameObject:
   m_ObjectHideFlags: 0
@@ -6770,7 +6782,7 @@ GameObject:
   - component: {fileID: 2338245396529313614}
   m_Layer: 0
   m_Name: Fragment 13
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6783,7 +6795,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5046336754901131976}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3353, y: 0.2341, z: 0.1973}
+  m_LocalPosition: {x: 0.3353, y: -0.015000045, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -6901,7 +6913,7 @@ GameObject:
   - component: {fileID: 835511843556070755}
   m_Layer: 0
   m_Name: Fragment 33
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6914,7 +6926,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5787139825848180870}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3408, y: 0.0784, z: 0.1973}
+  m_LocalPosition: {x: 0.3408, y: -0.17070004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -16833,7 +16845,7 @@ GameObject:
   - component: {fileID: 1150975872327225765}
   m_Layer: 0
   m_Name: Fragment 11
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16846,7 +16858,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6676944435268591762}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1729, y: 0.2341, z: 0.1973}
+  m_LocalPosition: {x: 0.1729, y: -0.015000045, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -16926,7 +16938,7 @@ GameObject:
   - component: {fileID: 6617345840200283897}
   m_Layer: 0
   m_Name: Fragment 32
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16939,7 +16951,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6875658978144470652}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1729, y: 0.0784, z: 0.1973}
+  m_LocalPosition: {x: 0.1729, y: -0.17070004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -17098,7 +17110,7 @@ GameObject:
   - component: {fileID: 7707432079400139437}
   m_Layer: 0
   m_Name: Fragment 21
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17111,7 +17123,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7229713961075848836}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1705, y: 0.1543, z: 0.1973}
+  m_LocalPosition: {x: 0.1705, y: -0.09480004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -17463,7 +17475,7 @@ GameObject:
   - component: {fileID: 505112297265872073}
   m_Layer: 0
   m_Name: Fragment 22
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17476,7 +17488,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7820998501119686164}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2584, y: 0.1543, z: 0.1973}
+  m_LocalPosition: {x: 0.2584, y: -0.09480004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
@@ -22846,7 +22858,7 @@ GameObject:
   - component: {fileID: 587956732218550752}
   m_Layer: 0
   m_Name: Fragment 23
-  m_TagString: Untagged
+  m_TagString: fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22859,7 +22871,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8488204873410350954}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.34, y: 0.1543, z: 0.1973}
+  m_LocalPosition: {x: 0.34, y: -0.09480004, z: 0.1973}
   m_LocalScale: {x: -0.066376984, y: -0.066376984, z: -0.016594246}
   m_Children: []
   m_Father: {fileID: 7486523435952574320}
