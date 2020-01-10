@@ -157,6 +157,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3866830526089025819, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2949040545007792523, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_Name
@@ -241,11 +246,6 @@ PrefabInstance:
         type: 3}
       propertyPath: TargetPath
       value: bache.jpg
-      objectReference: {fileID: 0}
-    - target: {fileID: 3866830526089025819, guid: 0c57a0fa1f8786c408d4f7088e282ede,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2354966283232830698, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
@@ -605,7 +605,7 @@ PrefabInstance:
     - target: {fileID: 2031294584209395678, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 306588998746180759, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
