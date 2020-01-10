@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class asteroid : MonoBehaviour
 {
-    public TextMesh text;
+    public GameObject text;
     public float speed = 10.0f;
     private Rigidbody rb;
-    private int index = 0;
+    private static int index = 0;
 
     // je dois pas etre au bon endroit , je ne peux pas acceder au 3dtext depuis une instance de prefab
     private string textCode = "ReactDOM.render'(<h1>Hello, world!</h1>,document.getElementById('root'));";
@@ -29,11 +29,12 @@ public class asteroid : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other) {
+        text = GameObject.Find("Codetxt");
         if(other.tag == "bullet")
         {
             if(index == 17 || index == 40 || index == 70)
-                text.text += "\n";
-            text.text += textCode[index];
+                text.GetComponent<TextMesh>().text += "\n";
+            text.GetComponent<TextMesh>().text += textCode[index];
             index++;
             Destroy(this.gameObject);
         }  
