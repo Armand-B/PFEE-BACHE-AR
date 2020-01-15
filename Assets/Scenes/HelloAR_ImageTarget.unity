@@ -697,6 +697,16 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1694485685450229468, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_Name
+      value: Fragment 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 6875658978144470652, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_Name
+      value: Fragment 31
+      objectReference: {fileID: 0}
     - target: {fileID: 9167311136627000031, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_SortingLayerID
@@ -776,6 +786,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayer
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3059722080460606361, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: fragmentName
+      value: Fragment 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c57a0fa1f8786c408d4f7088e282ede, type: 3}
