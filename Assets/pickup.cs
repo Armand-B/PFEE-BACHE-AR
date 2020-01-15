@@ -7,10 +7,12 @@ public class pickup : MonoBehaviour
 {
     private int pressed = 0;
     public Button button;
+
+    private int attached = 0;
     // Start is called before the first frame update
     void Start()
     {
-        
+         button.onClick.AddListener(MyAction);
     }
 
     // Update is called once per frame
@@ -21,10 +23,17 @@ public class pickup : MonoBehaviour
 
     private void OnTriggerStay(Collider other) 
     {
-        if(other.tag == "fragment" && button.onClick.Equals(true))
+       
+        if(other.tag == "fragment" && attached == 1)
         {
-            print("ca marche");
+            attached = 0;
+            other.transform.parent = this.transform;
         }
+    }
+
+      void MyAction()
+    {
+        attached = 1;
     }
 
 }
