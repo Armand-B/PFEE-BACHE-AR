@@ -8,7 +8,7 @@ public class pickup : MonoBehaviour
     private int pressed = 0;
     public Button button;
 
-    private int attached = 0;
+    public int attached = 0;
     // Start is called before the first frame update
     void Start()
     {

@@ -36,6 +36,8 @@ public class Jeu2 : MonoBehaviour
             tuyau.SetActive(true);
             Hologram.SetActive(true);
             this.gameObject.SetActive(false);
+            ned.GetComponent<pickup>().attached = 0;
+            ned.GetComponent<shoot>().enabled = false;
         }    
     }
 }
