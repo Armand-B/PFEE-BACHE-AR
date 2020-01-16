@@ -11,6 +11,7 @@ public class Jeu1 : MonoBehaviour
         if (other.name == "ned")
         {
             jeu1.SetActive(true);
+            this.gameObject.SetActive(false);
         }
     }
 }

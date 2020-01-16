@@ -502,6 +502,16 @@ PrefabInstance:
       propertyPath: spawner
       value: 
       objectReference: {fileID: 1960342000}
+    - target: {fileID: 3203737555791876558, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: text
+      value: 
+      objectReference: {fileID: 1432049305}
+    - target: {fileID: 3203737555791876558, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: Hologram
+      value: 
+      objectReference: {fileID: 1430807440}
     - target: {fileID: 2049714371952516096, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
       propertyPath: m_Mesh
@@ -701,6 +711,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Fragment 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 6113134521609412291, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6875658978144470652, guid: 0c57a0fa1f8786c408d4f7088e282ede,
         type: 3}
@@ -910,6 +925,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Type: 0
   Display: 0
+--- !u!1 &1430807440 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6113134521609412291, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 1107980652}
+  m_PrefabAsset: {fileID: 0}
+--- !u!102 &1432049305 stripped
+TextMesh:
+  m_CorrespondingSourceObject: {fileID: 6842104847448023848, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 1107980652}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1960342000 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2354966283232830698, guid: 0c57a0fa1f8786c408d4f7088e282ede,
