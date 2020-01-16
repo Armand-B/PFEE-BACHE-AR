@@ -6640,6 +6640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   button: {fileID: 33836335767161405}
+  attached: 0
 --- !u!1 &4570576233442068946
 GameObject:
   m_ObjectHideFlags: 0
@@ -17228,6 +17229,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7486523435952574320}
+  - component: {fileID: 1447766123557848990}
   m_Layer: 0
   m_Name: JEU 3
   m_TagString: Untagged
@@ -17251,6 +17253,31 @@ Transform:
   m_Father: {fileID: 2949040545007792521}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1447766123557848990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6423930105275182093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a71a5c98e3310c4bbf60b4230f174ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  empty: {fileID: 156291675539931217}
+  hologram: {fileID: 6134719772826345024}
+  jeu3: {fileID: 6423930105275182093}
+  empties:
+  - {fileID: 567750778416762410}
+  - {fileID: 4079509708347303246}
+  - {fileID: 6329630625519494863}
+  - {fileID: 7100763315522016618}
+  - {fileID: 4933106368748443493}
+  - {fileID: 3105073176559712719}
+  - {fileID: 2303780675149521816}
+  - {fileID: 3926786329958315948}
+  - {fileID: 6281366031506864165}
 --- !u!1 &6558165853249691255
 GameObject:
   m_ObjectHideFlags: 0

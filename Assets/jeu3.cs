@@ -22,5 +22,6 @@ public class jeu3 : MonoBehaviour
     {
         empty.SetActive(true);
         fragments.SetActive(true);
+        this.gameObject.SetActive(false);
     }
 }
