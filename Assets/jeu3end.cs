@@ -9,13 +9,9 @@ public class jeu3end : MonoBehaviour
     public GameObject jeu3;
     private bool allInactive = false;
     public GameObject[] empties;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    public Animator animator;
+
     void Update()
     {
         allInactive = true;
@@ -30,8 +26,10 @@ public class jeu3end : MonoBehaviour
 
         if(allInactive && empty.activeSelf)
         {
+            
             jeu3.SetActive(false);
             hologram4.SetActive(true);
+            animator.Play("bas gauche");
         }
     }
 }

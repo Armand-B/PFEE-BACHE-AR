@@ -807,6 +807,11 @@ PrefabInstance:
       propertyPath: fragmentName
       value: Fragment 11
       objectReference: {fileID: 0}
+    - target: {fileID: 8756013401361105210, guid: 0c57a0fa1f8786c408d4f7088e282ede,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 47977890f77510240a2fc0fc265c54a4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c57a0fa1f8786c408d4f7088e282ede, type: 3}
 --- !u!114 &1107980653 stripped

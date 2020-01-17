@@ -6,6 +6,7 @@ public class jeu3 : MonoBehaviour
 {
     public GameObject fragments;
     public GameObject empty;
+
  
     private void OnTriggerEnter(Collider other) 
     {

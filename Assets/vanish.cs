@@ -22,6 +22,11 @@ public class vanish : MonoBehaviour
             color.a -= fadeSpeed;
             this.GetComponent<MeshRenderer>().material.color = color ;
         }
+
+        if(this.GetComponent<MeshRenderer>().material.color.a < 0.15f)
+        {
+            this.gameObject.SetActive(false);
+        }
     }
 
     private void OnTriggerExit(Collider other) 

@@ -10,6 +10,8 @@ public class Game1End : MonoBehaviour
     public GameObject hologram2;
     public GameObject[] letters;
     private bool allInactive = false;
+
+    public Animator animator;
     void Update()
     {
         allInactive = true;
@@ -24,6 +26,7 @@ public class Game1End : MonoBehaviour
 
         if(allInactive)
         {
+            animator.Play("haut gauche");
             jeu1.SetActive(false);
             jeu2.SetActive(true);
             hologram1.SetActive(false);
