@@ -2,15 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class jeu3 : MonoBehaviour
+public class jeu4 : MonoBehaviour
 {
-    public GameObject fragments;
-    public GameObject empty;
- 
+    public GameObject errors;
     private void OnTriggerEnter(Collider other) 
     {
-        empty.SetActive(true);
-        fragments.SetActive(true);
+        errors.SetActive(true);
         this.gameObject.SetActive(false);
     }
 }
