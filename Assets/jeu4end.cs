@@ -9,6 +9,8 @@ public class jeu4end : MonoBehaviour
     public GameObject error;
 
     public Animator animator;
+    
+    private int animationPlayed = 0;
     void Update()
     {
         allInactive = true;
@@ -20,9 +22,10 @@ public class jeu4end : MonoBehaviour
             }
         }
 
-        if(allInactive && error.activeSelf)
+        if(allInactive && error.activeSelf && animationPlayed == 0)
         {
-            animator.Play("bas droite");
+            animationPlayed = 1;
+            animator.Play("bas gauche");
             StartCoroutine(Wait());
         }
     }

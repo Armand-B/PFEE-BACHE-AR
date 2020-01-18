@@ -26,7 +26,7 @@ public class jeu3end : MonoBehaviour
 
         if(allInactive && empty.activeSelf)
         {
-            animator.Play("bas gauche");
+            animator.Play("bas droite");
             StartCoroutine(Wait());
         }
     }
