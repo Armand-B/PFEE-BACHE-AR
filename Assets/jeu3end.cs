@@ -26,10 +26,15 @@ public class jeu3end : MonoBehaviour
 
         if(allInactive && empty.activeSelf)
         {
-            
-            jeu3.SetActive(false);
-            hologram4.SetActive(true);
             animator.Play("bas gauche");
+            StartCoroutine(Wait());
         }
+    }
+
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(2);
+        hologram4.SetActive(true);
+        jeu3.SetActive(false);
     }
 }
