@@ -33,7 +33,7 @@ public class jeu4end : MonoBehaviour
     {
         yield return new WaitForSeconds(3);
         animator.Play("volant");
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(1);
         animator.Play("ouverture");
          
     }
