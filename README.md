@@ -3,7 +3,7 @@
 This is my end of studies project.  
 I had to create an augmented reality game based on a specific image target :   
 
-![alt text]()  
+![alt text](https://github.com/Armand-B/PFEE-BACHE-AR/blob/master/bache%20ar.JPG)  
 
 It was composed in 4 minigames wich were playable using the little character : NED.  
 
